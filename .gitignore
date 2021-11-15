@@ -1,0 +1,11 @@
+# Ignore these local directories populated by Visual Studio
+.vs/
+TestResults/
+*/bin/
+*/obj/
+*/Debug/
+*/Release/
+
+
+# Ignore these local files populated by Visual Studio
+*.csproj.user
